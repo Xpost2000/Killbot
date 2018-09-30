@@ -1,1 +1,5 @@
+The source code requries CEF, build it and place the headers in src/include ( make it if it doesn't exist ).
 
+The assets for the game are on the game's itch.io link. It should build correctly and if not a bit of configuration should get it to work.
+
+Get the CEF here https://bitbucket.org/chromiumembedded/cef
